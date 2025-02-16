@@ -20,9 +20,7 @@ Human experts typically integrate numerical and textual multimodal information t
 ## 📪 How to install
 
 ```bash
-cd ChatTime
-
-pip install .
+pip install chat-time==0.1.0
 ```
 ## 📈 Usage
 
