@@ -63,7 +63,7 @@ plt.show()
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from model.model import ChatTime
+from chat_time.model.model import ChatTime
 
 dataset = "PTF"
 hist_len = 120
@@ -101,7 +101,7 @@ plt.show()
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from model.model import ChatTime
+from chat_time.model.model import ChatTime
 
 dataset = "TSQA"
 model_path = "ChengsenWang/ChatTime-1-7B-Chat"

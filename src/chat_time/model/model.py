@@ -9,8 +9,8 @@ from transformers import (
     pipeline,
 )
 
-from utils.prompt import getPrompt
-from utils.tools import Discretizer, Serializer
+from chat_time.utils.prompt import getPrompt
+from chat_time.utils.tools import Discretizer, Serializer
 
 
 class ChatTime:
