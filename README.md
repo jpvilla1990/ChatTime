@@ -17,6 +17,13 @@ Human experts typically integrate numerical and textual multimodal information t
 
 ![](./img/architecture.png)
 
+## 📪 How to install
+
+```bash
+cd ChatTime
+
+pip install .
+```
 ## 📈 Usage
 
 We present three minimal examples showing how to perform the multimodal time series analysis using the ChatTime model. The code and corresponding results are available in the [notebook](./demo.ipynb).
